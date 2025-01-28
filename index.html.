@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html> lang="fr">
 <head>
-  <title>Visualiser le PDF</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Presentation de projet</title>
 </head>
 <body>
-  <iframe src="document%20de%20preparation%20amenagement.docx" width="100%" height="1000px" style="border: none;">
-    Votre navigateur ne supporte pas la visualisation des PDF.Â 
-    <a href="votre-fichier.pdf">TÃ©lÃ©chargez le PDF ici.</a>
-  </iframe>
+ <p><a href="https://github.com/Ecole-Jean-Nicolet/Fondation-Saputo/blob/main/assurance.pdf" target="blank">Document complet</a></p>
 </body>
 </html>
